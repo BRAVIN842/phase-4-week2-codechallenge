@@ -11,7 +11,7 @@ const Home = () => {
       <section>
         <h2>Our Story</h2>
         <p>
-        BRAVO'S PIZZA PLACE has been serving delicious and freshly baked pizzas since [year of establishment]. Our passion for quality ingredients and traditional recipes sets us apart, making every bite a memorable experience.
+        BRAVO'S PIZZA PLACE has been serving delicious and freshly baked pizzas since 2024. Our passion for quality ingredients and traditional recipes sets us apart, making every bite a memorable experience.
         </p>
       </section>
 
